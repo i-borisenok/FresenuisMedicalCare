@@ -1,0 +1,183 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FresenuisMedicalCare"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="FresenuisMedicalCare.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None" Topmost="True" >
+    <!--<Canvas >-->
+        <Grid>
+
+        <Grid HorizontalAlignment="Center" Height="85"  VerticalAlignment="Top" Width="1600">
+
+            <Grid.Background>
+                <ImageBrush ImageSource="/image/FooterBackground.jpg"/>
+            </Grid.Background>
+
+            <!--<Viewbox>-->
+            <Grid HorizontalAlignment="Left" Height="50" Margin="54,0,0,0" VerticalAlignment="Center" Width="245">
+                <Grid.Background>
+                    <ImageBrush ImageSource="image/Logotype.png"/>
+                </Grid.Background>
+            </Grid>
+            <!--</Viewbox>-->
+
+            <Grid Name="CloseButtonPicture_Grid" HorizontalAlignment="Left" Height="35" Margin="1564,-1,0,0" VerticalAlignment="Top" Width="37" PreviewMouseMove="CloseButtonPicture_Grid_PreviewMouseMove"  Cursor="Hand">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/CloseButtonPicture.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid Name="HideButtonPicture_Grid" HorizontalAlignment="Left" Height="35" Margin="1494,-1,0,0" VerticalAlignment="Top" Width="37" PreviewMouseMove="HideButtonPicture_Grid_PreviewMouseMove" Cursor="Hand">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/HideButtonPicture.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="CloseButtonPicture_Grid_Move"  HorizontalAlignment="Left" Height="35" Margin="1564,-1,0,0" VerticalAlignment="Top" Width="37" MouseLeave="CloseButtonPicture_Grid_Move_MouseLeave" Cursor="Hand" PreviewMouseDown="CloseButtonPicture_Grid_Move_PreviewMouseDown" >
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/CloseButtonPicture2.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="HideButtonPicture_Grid_Move"  HorizontalAlignment="Left" Height="35" Margin="1493,-1,0,0" VerticalAlignment="Top" Width="37" MouseLeave="HideButtonPicture_Grid_Move_MouseLeave" Cursor="Hand" PreviewMouseDown="HideButtonPicture_Grid_Move_PreviewMouseDown">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/HideButtonPicture2.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="WindowedModeButtonPicture_Grid" HorizontalAlignment="Left" Height="35" Margin="1529,-1,0,0" VerticalAlignment="Top" Width="37" PreviewMouseMove="WindowedModeButtonPicture_Grid_PreviewMouseMove" Cursor="Hand" >
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/WindowedModeButtonPicture.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="WindowedModeButtonPicture_Grid_Move"  HorizontalAlignment="Left" Height="35" Margin="1529,-1,0,0" VerticalAlignment="Top" Width="37" MouseLeave="WindowedModeButtonPicture_Grid_Move_MouseLeave" Cursor="Hand" PreviewMouseDown="WindowedModeButtonPicture_Grid_Move_PreviewMouseDown">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/WindowedModeButtonPicture2.png"/>
+                </Grid.Background>
+            </Grid>
+
+
+        </Grid>
+
+
+
+
+        <Frame x:Name="MainFrame" Height="815" Width="1600" HorizontalAlignment="Center" VerticalAlignment="Bottom" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="/image/MainBackground.jpg"/>
+            </Frame.Background>
+        </Frame>
+
+        <Expander x:Name="Patients_Menu" HorizontalAlignment="Left" Height="114" Header="ПАЦИЕНТЫ" Margin="432,19,0,0" VerticalAlignment="Top" Width="182" Foreground="#FF021C8A" PreviewMouseMove="Patients_Menu_PreviewMouseMove" MouseLeave="Patients_Menu_MouseLeave" FontSize="13" Background="#00FAFAFA">
+
+            <Grid Height="70">
+
+                <Button x:Name="PatientsList" Content="СПИСОК ПАЦИЕНТОВ" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,0,0,39" Click="PatientsList_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="CreatePatient" Content="СОЗДАТЬ ПАЦИЕНТА" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,32,0,7" Click="CreatePatient_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </Grid>
+
+        </Expander>
+
+        <Expander x:Name="Employees_Menu" HorizontalAlignment="Left" Height="114" Header="СОТРУДНИКИ" Margin="1008,19,0,0" VerticalAlignment="Top" Width="204" Foreground="#FF021C8A" PreviewMouseMove="Employees_Menu_PreviewMouseMove" MouseLeave="Employees_Menu_MouseLeave" FontSize="13" Background="#00FAFAFA">
+
+            <Grid Height="70">
+
+                <Button x:Name="EmployeesList" Content="СПИСОК СОТРУДНИКОВ" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,0,0,39" Click="EmployeesList_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="CreateEmployee" Content="ДОБАВИТЬ СОТРУДНИКА" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,32,0,7" Click="CreateEmployee_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </Grid>
+
+        </Expander>
+
+        <Expander x:Name="Procedures_Menu" HorizontalAlignment="Left" Height="114" Header="ПРОЦЕДУРЫ" Margin="614,19,0,0" VerticalAlignment="Top" Width="182" Foreground="#FF021C8A" PreviewMouseMove="Procedures_Menu_PreviewMouseMove" MouseLeave="Procedures_Menu_MouseLeave" FontSize="13" Background="#00FAFAFA">
+
+            <Grid Height="70">
+
+                <Button x:Name="ProceduresList" Content="СПИСОК ПРОЦЕДУР" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,0,0,39" Click="ProceduresList_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="CreateProcedure" Content="СОЗДАТЬ ПРОЦЕДУРУ" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,32,0,7" Click="CreateProcedure_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </Grid>
+
+        </Expander>
+
+        <Expander x:Name="userName_Menu" HorizontalAlignment="Left" Height="114" Header="пользователь" Margin="1247,0,0,0" VerticalAlignment="Top" Width="247" Foreground="#FF021C8A" PreviewMouseMove="Employees_Menu_PreviewMouseMove" MouseLeave="Employees_Menu_MouseLeave" FontSize="13" Background="#00FAFAFA" FontStyle="Italic">
+
+            <Grid Height="70">
+
+                <Button x:Name="as" Content="СПИСОК СОТРУДНИКОВ" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,0,0,39" Click="EmployeesList_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="CreateEmployeeas" Content="ДОБАВИТЬ СОТРУДНИКА" BorderBrush="#00673AB7" Foreground="#FF021C8A" FontSize="11" Margin="0,32,0,7" Click="CreateEmployee_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#B2FFFFFF" Offset="0.003"/>
+                            <GradientStop Color="#4CB8AFFD" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </Grid>
+
+        </Expander>
+
+    </Grid>
+        
+     <!--</Canvas>-->
+
+</Window>

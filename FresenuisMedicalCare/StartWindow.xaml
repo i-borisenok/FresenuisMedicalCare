@@ -1,0 +1,55 @@
+﻿<Window x:Class="FresenuisMedicalCare.StartWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FresenuisMedicalCare"
+        mc:Ignorable="d"
+        Title="Fresenius Medical Care" Height="640" Width="1100" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" MouseDown="Window_MouseDown">
+
+    <Grid x:Name="StartWindowGrid">
+
+        <Grid x:Name="PictureBackground" AutomationProperties.Name="PictureBackground" HorizontalAlignment="Center" Height="640" VerticalAlignment="Center" Width="1100" >
+
+            <Grid.Background>
+                <ImageBrush ImageSource="/image/FormRegistration.jpg"/>
+            </Grid.Background>
+
+            <Grid x:Name="LogotypePicture" AutomationProperties.Name="LogotypePicture" HorizontalAlignment="Center" Height="142" Margin="0,48,0,0" VerticalAlignment="Top" Width="688" >
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/Logotype.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid Name="CloseButtonPicture_Grid" HorizontalAlignment="Left" Height="35" Margin="1064,-1,0,0" VerticalAlignment="Top" Width="37" PreviewMouseMove="CloseButtonPicture_Grid_PreviewMouseMove" Cursor="Hand">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/CloseButtonPicture.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid Name="HideButtonPicture_Grid" HorizontalAlignment="Left" Height="35" Margin="1029,-1,0,0" VerticalAlignment="Top" Width="37" PreviewMouseMove="HideButtonPicture_Grid_PreviewMouseMove" Cursor="Hand">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/HideButtonPicture.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="CloseButtonPicture_Grid_Move"  HorizontalAlignment="Left" Height="35" Margin="1064,-1,0,0" VerticalAlignment="Top" Width="37" MouseLeave="CloseButtonPicture_Grid_Move_MouseLeave" Cursor="Hand" PreviewMouseDown="CloseButtonPicture_Grid_Move_PreviewMouseDown" >
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/CloseButtonPicture2.png"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="HideButtonPicture_Grid_Move"  HorizontalAlignment="Left" Height="35" Margin="1029,-1,0,0" VerticalAlignment="Top" Width="37" MouseLeave="HideButtonPicture_Grid_Move_MouseLeave" Cursor="Hand" PreviewMouseDown="HideButtonPicture_Grid_Move_PreviewMouseDown">
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/HideButtonPicture2.png"/>
+                </Grid.Background>
+            </Grid>
+
+        </Grid>
+
+        <Frame x:Name="FrameRegistrationPage" Height="450" Width="1100" VerticalAlignment="Bottom" HorizontalAlignment="Center" NavigationUIVisibility="Hidden" />
+
+    </Grid>
+
+</Window>

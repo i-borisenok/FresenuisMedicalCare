@@ -1,0 +1,300 @@
+﻿<Page
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FresenuisMedicalCare"
+      xmlns:Collections="clr-namespace:System.Collections;assembly=mscorlib" x:Class="FresenuisMedicalCare.CreatePatientPage"
+      mc:Ignorable="d"
+      Title="Page1" 
+    Height="815" Width="1600">
+
+    <Grid Height="800" Width="1600" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+        <Grid x:Name="Photo_Grid" Width="135" Height="230" Margin="333,72,1132,498" >
+
+            <Grid x:Name="ProfilePhoto" HorizontalAlignment="Center" Height="170" Width="135"  VerticalAlignment="Top" PreviewMouseMove="ProfilePhoto_PreviewMouseMove" >
+                <Grid.Background>
+                    <ImageBrush ImageSource="/image/ProfilePhoto.png" Stretch="UniformToFill"/>
+                </Grid.Background>
+            </Grid>
+
+            <Grid x:Name="ProfilePhoto_Move" Cursor="Hand" HorizontalAlignment="Center" Height="170"  VerticalAlignment="Top" Width="135" MouseLeave="ProfilePhoto_Move_MouseLeave" PreviewMouseDown="ProfilePhoto_Move_PreviewMouseDown">
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#7FA1A4CE"/>
+                        <GradientStop Color="#CCFBFBFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Label x:Name="Label_ProfilePhoto_Move" Content="ДОБАВИТЬ ФОТО" HorizontalAlignment="Center" Height="28" Margin="0,133,0,0" VerticalAlignment="Top" Width="112" FontWeight="Bold" Foreground="#DD3B4090"/>
+            </Grid>
+
+            <Button x:Name="AddDeleteImage_Button" Content="Добавить фото" HorizontalAlignment="Center" Height="32"  VerticalAlignment="Bottom" Width="135" BorderBrush="#FF445BBF" FontSize="18" Click="AddDeleteImage_Button_Click" Foreground="White">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background">
+                            <Setter.Value>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#B2B6B6CC" Offset="0.007"/>
+                                    <GradientStop Color="#FF919AE6" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="#FF908FE0"/>
+                                            <GradientStop Color="#FFBEBDE2" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+        </Grid>
+
+        <Grid x:Name="Birthday_Grid" HorizontalAlignment="Left" Height="54" Margin="504,297,0,0" VerticalAlignment="Top" Width="480">
+
+            <Border x:Name="UserBirthday_Border" CornerRadius="18" HorizontalAlignment="Center" Width="480" Margin="0,8,0,8" RenderTransformOrigin="0.5,0.5" >
+                <Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>
+
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                        <GradientStop Color="#FFF0F7FF" Offset="0.405"/>
+                        <GradientStop Color="#469FBAF0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+
+            <Border x:Name="Years_ComboBox_Border" CornerRadius="18" HorizontalAlignment="Left" Width="98" Margin="146,8,0,8" >
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                        <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                        <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <ComboBox x:Name="Years_ComboBox" materialDesign:HintAssist.Hint="   год" Cursor="Hand" HorizontalAlignment="Left" Height="41" Width="66" Foreground="#FF020450" Style="{DynamicResource MaterialDesignFloatingHintComboBox}" FontSize="14" FontStyle="Italic" DropDownClosed="Years_ComboBox_DropDownClosed" Margin="13,-7,0,0" VerticalAlignment="Top" />
+
+            </Border>
+
+            <Border x:Name="Months_ComboBox_Border" CornerRadius="18" HorizontalAlignment="Left" Width="134" Margin="255,8,0,8" >
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                        <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                        <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <ComboBox x:Name="Months_ComboBox" materialDesign:HintAssist.Hint="   месяц" Cursor="Hand" HorizontalAlignment="Left" Height="41" VerticalAlignment="Top" Width="102" Foreground="#FF020450" Style="{DynamicResource MaterialDesignFloatingHintComboBox}" FontSize="14" FontStyle="Italic"  IsEnabled="False" DropDownClosed="Months_ComboBox_DropDownClosed" Margin="13,-7,0,0" />
+            </Border>
+
+            <Border x:Name="Days_ComboBox_Border" CornerRadius="18" HorizontalAlignment="Left" Width="80" Margin="400,8,0,8" >
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                        <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                        <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <ComboBox x:Name="Days_ComboBox" materialDesign:HintAssist.Hint="  день" Cursor="Hand" HorizontalAlignment="Left" Height="41" Margin="13,-7,0,0" VerticalAlignment="Top" Width="58"  Foreground="#FF020450" Style="{DynamicResource MaterialDesignFloatingHintComboBox}" FontSize="14" FontStyle="Italic" PreviewMouseDown="Days_ComboBox_PreviewMouseDown" IsEnabled="False" />
+
+
+            </Border>
+            <Label Content="  дата рождения:" HorizontalAlignment="Left" Margin="22,15,0,0" VerticalAlignment="Top" Height="28" Width="124" Foreground="#FF4B5888" FontSize="14" FontStyle="Italic"/>
+        </Grid>
+        <Border x:Name="UserNameBorder" CornerRadius="18" HorizontalAlignment="Left" Width="544" Margin="504,151,0,611" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName" materialDesign:HintAssist.Hint="  имя" HorizontalAlignment="Left"  Width="490" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="25,-8,0,2" />
+        </Border>
+        <Border x:Name="UserSurnameBorder" CornerRadius="18" HorizontalAlignment="Left" Width="544" Margin="504,104,0,658" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <TextBox x:Name="UserSurname" materialDesign:HintAssist.Hint="  фамилия" HorizontalAlignment="Left"  Width="501" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="25,-8,0,2" RenderTransformOrigin="0.5,0.5">
+                <TextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.264"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0.745"/>
+                    </TransformGroup>
+                </TextBox.RenderTransform>
+            </TextBox>
+        </Border>
+        <Border x:Name="UserNameBorder_Copy" CornerRadius="18" HorizontalAlignment="Left" Width="544" Margin="504,199,0,564" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName1" materialDesign:HintAssist.Hint="  отчество" HorizontalAlignment="Center"  Width="493" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="0,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy1" CornerRadius="18" HorizontalAlignment="Left" Width="288" Margin="1190,277,0,487" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName2" materialDesign:HintAssist.Hint="  город" HorizontalAlignment="Left"  Width="183" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="27,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy2" CornerRadius="18" HorizontalAlignment="Left" Width="288" Margin="1188,318,0,446" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName3" materialDesign:HintAssist.Hint="  улица" HorizontalAlignment="Center"  Width="182" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="0,-8,0,2"  />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy3" CornerRadius="18" HorizontalAlignment="Left" Width="80" Margin="1282,365,0,398" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName4" materialDesign:HintAssist.Hint="  корпус" HorizontalAlignment="Left"  Width="62" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy4" CornerRadius="18" HorizontalAlignment="Left" Width="83" Margin="1190,364,0,400" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName5" materialDesign:HintAssist.Hint="  дом" HorizontalAlignment="Left"  Width="49" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2"  />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy5" CornerRadius="18" HorizontalAlignment="Left" Width="124" Margin="1367,365,0,398" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName6" materialDesign:HintAssist.Hint="  квартира" HorizontalAlignment="Left"  Width="88" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Label Content="ФИО:" HorizontalAlignment="Left" Margin="504,73,0,0" VerticalAlignment="Top" Width="104" Height="25"/>
+        <Label Content="АДРЕС:" HorizontalAlignment="Left" Margin="1188,205,0,0" VerticalAlignment="Top" Width="104" Height="25"/>
+        <Border x:Name="UserNameBorder_Copy6" CornerRadius="18" HorizontalAlignment="Left" Width="115" Margin="504,365,0,398" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName7" materialDesign:HintAssist.Hint="  рост, см" HorizontalAlignment="Left"  Width="77" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="15,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy7" CornerRadius="18" HorizontalAlignment="Left" Width="162" Margin="638,365,0,398" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName8" materialDesign:HintAssist.Hint="  текущий вес, кг" HorizontalAlignment="Left"  Width="128" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="15,-8,0,2"  />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy8" CornerRadius="18" HorizontalAlignment="Left" Width="96" Margin="1334,461,0,303" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName9" materialDesign:HintAssist.Hint="  корпус" HorizontalAlignment="Left"  Width="62" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy9" CornerRadius="18" HorizontalAlignment="Left" Width="290" Margin="1188,105,0,659" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName10" materialDesign:HintAssist.Hint="  номер телефона" HorizontalAlignment="Left"  Width="210" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy10" CornerRadius="18" HorizontalAlignment="Left" Width="124" Margin="1190,461,0,302" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName11" materialDesign:HintAssist.Hint="  квартира" HorizontalAlignment="Left"  Width="88" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy11" CornerRadius="18" HorizontalAlignment="Left" Width="162" Margin="822,365,0,398" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName12" materialDesign:HintAssist.Hint="  целевой вес, кг" HorizontalAlignment="Left"  Width="128" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="15,-8,0,2"  />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy12" CornerRadius="18" HorizontalAlignment="Left" Width="290" Margin="1188,152,0,612" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName13" materialDesign:HintAssist.Hint="  телефон родственника" HorizontalAlignment="Left"  Width="210" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="14,-8,0,2" />
+        </Border>
+        <Border x:Name="UserNameBorder_Copy13" CornerRadius="18" HorizontalAlignment="Left" Width="288" Margin="1188,234,0,528" >
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0" Opacity="0.7">
+                    <GradientStop Color="#FFF0F7FF" Offset="0.228"/>
+                    <GradientStop Color="#FF9FBAF0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="UserName14" materialDesign:HintAssist.Hint="  область" HorizontalAlignment="Left"  Width="183" Style="{DynamicResource MaterialDesignFloatingHintTextBox}" FontSize="14" Foreground="#FF011361" FontStyle="Italic" Margin="27,-8,0,2" />
+        </Border>
+        <Label Content="КОНТАКТЫ:" HorizontalAlignment="Left" Margin="1188,73,0,0" VerticalAlignment="Top" Width="104" Height="25"/>
+
+    </Grid>
+</Page>

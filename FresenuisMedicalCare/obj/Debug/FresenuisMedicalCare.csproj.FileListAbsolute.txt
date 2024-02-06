@@ -1,0 +1,379 @@
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\App.g.cs
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\App.baml
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\RegistrationPage.g.cs
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\RegistrationPage.baml
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\AuthorizationPage.g.cs
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\AuthorizationPage.baml
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+C:\Users\Илья\Documents\С#\FreseniusMedicalCare\FreseniusMedicalCare\FresenuisMedicalCare\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\AuthorizationPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\RegistrationPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\App.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\App.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\AuthorizationPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\RegistrationPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MySql.Data.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MySql.Data.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\App.g.cs
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\App.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.baml
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+C:\Users\Илья\Documents\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.SuggestedBindingRedirects.cache
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\App.g.cs
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\App.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.baml
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+A:\С#\МОЙПРОЕКТ — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.SuggestedBindingRedirects.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\App.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\App.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\AuthorizationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\RecoverPasswordPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\RegistrationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Migrations.AddPatientTargetWeight.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\App.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\App.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\EmployeePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\EmployeePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\NavigationMenuPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\NavigationMenuPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\PatientPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\PatientPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreateEmployeePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreateEmployeePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreateProcedurePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreatePatientPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\ProceduresPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreateProcedurePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\CreatePatientPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\ProceduresPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\PortraitEditorWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\PortraitEditorWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Migrations.newe.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUS — копия — копия\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\App.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\App.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Migrations.newe.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreateProcedurePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreatePatientPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModyue\CreateEmployeePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\PatientPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModyue\EmployeePage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\ProceduresPage.g.cs
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreateProcedurePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreatePatientPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModyue\CreateEmployeePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\PatientPage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModyue\EmployeePage.baml
+A:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\ProceduresPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.AssemblyReference.cache
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreateProcedurePage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreatePatientPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\PatientPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\MainWindow.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\ProceduresPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\StartWindow.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\App.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.cache
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare_MarkupCompile.lref
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.exe
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.pdb
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe.config
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.exe
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\FresenuisMedicalCare.pdb
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Memory.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Numerics.Vectors.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\System.Buffers.dll
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.xml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\EntityFramework.SqlServer.xml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignColors.pdb
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\bin\Debug\MySql.Data.xml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\App.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\AuthorizationPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordMessageWindow.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\MessageWindow.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\CreateNewPasswordPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreateProcedurePage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\CreatePatientPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\PatientPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\MainWindow.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RecoverPasswordPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\PatientModule\ProceduresPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\StartWindow.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\AuthorisationModule\RegistrationPage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.g.resources
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.Properties.Resources.resources
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.GenerateResource.cache
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CoreCompileInputs.cache
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\FresenuisMedicalCare.csproj.CopyComplete
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModule\CreateEmployeePage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModule\EmployeePage.g.cs
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModule\CreateEmployeePage.baml
+D:\С#\ПРОЕКТЫ ФРЕЗЕНИУС\FRESENIUSMEDICALCARE\FresenuisMedicalCare\obj\Debug\EmployeeModule\EmployeePage.baml
